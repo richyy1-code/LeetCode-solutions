@@ -21,6 +21,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0009-palindrome-number](https://github.com/richyy1-code/Leet/tree/main/0009-palindrome-number/) | Easy |
 | [0013-roman-to-integer](https://github.com/richyy1-code/Leet/tree/main/0013-roman-to-integer/) | Easy |
+| [0069-sqrtx](https://github.com/richyy1-code/Leet/tree/main/0069-sqrtx/) | Easy |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -48,6 +49,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/richyy1-code/Leet/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
+| [0069-sqrtx](https://github.com/richyy1-code/Leet/tree/main/0069-sqrtx/) | Easy |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -56,4 +58,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/richyy1-code/Leet/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
+## Newton's Method
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0069-sqrtx](https://github.com/richyy1-code/Leet/tree/main/0069-sqrtx/) | Easy |
 <!---LeetCode Topics End-->
