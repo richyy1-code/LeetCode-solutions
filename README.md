@@ -25,6 +25,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0009-palindrome-number](https://github.com/richyy1-code/Leet/tree/main/0009-palindrome-number/) | Easy |
 | [0013-roman-to-integer](https://github.com/richyy1-code/Leet/tree/main/0013-roman-to-integer/) | Easy |
 | [0069-sqrtx](https://github.com/richyy1-code/Leet/tree/main/0069-sqrtx/) | Easy |
+| [2582-pass-the-pillow](https://github.com/richyy1-code/Leet/tree/main/2582-pass-the-pillow/) | Easy |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -71,4 +72,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0118-pascals-triangle](https://github.com/richyy1-code/Leet/tree/main/0118-pascals-triangle/) | Easy |
 | [0119-pascals-triangle-ii](https://github.com/richyy1-code/Leet/tree/main/0119-pascals-triangle-ii/) | Easy |
+## Simulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2582-pass-the-pillow](https://github.com/richyy1-code/Leet/tree/main/2582-pass-the-pillow/) | Easy |
 <!---LeetCode Topics End-->
