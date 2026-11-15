@@ -5,12 +5,7 @@ class Solution:
         elif n == time:
             return n - 1
         else:
-            if n == 2:
-                if time % 2 == 1:
-                    return 2
-                else:
-                    return 1
-            elif time//(n-1) % 2 == 0:
+            if time//(n-1) % 2 == 0:
                 rem = time % (n-1)
                 return rem + 1
             else:
