@@ -4,12 +4,10 @@ class Solution:
         nums.sort()
         length = len(nums)
         if length % 2 == 1:
-            med = nums[(length//2)]
-        
-        else:
-            a = nums[(length//2)-1]
-            b = nums[(length//2)]
-            med = (a+b)/2
-        return med
+            return nums[(length//2)]
+        a = nums[(length//2)-1]
+        b = nums[(length//2)]
+        return (a+b)/2
+
 
         
