@@ -36,6 +36,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0014-longest-common-prefix](https://github.com/richyy1-code/Leet/tree/main/0014-longest-common-prefix/) | Easy |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/richyy1-code/Leet/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
 | [0020-valid-parentheses](https://github.com/richyy1-code/Leet/tree/main/0020-valid-parentheses/) | Easy |
+| [0125-valid-palindrome](https://github.com/richyy1-code/Leet/tree/main/0125-valid-palindrome/) | Easy |
 | [3941-password-strength](https://github.com/richyy1-code/Leet/tree/main/3941-password-strength/) | Medium |
 ## Trie
 | Problem Name | Difficulty |
@@ -54,6 +55,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/richyy1-code/Leet/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/richyy1-code/Leet/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
+| [0125-valid-palindrome](https://github.com/richyy1-code/Leet/tree/main/0125-valid-palindrome/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
