@@ -1,22 +1,26 @@
 class Solution:
     def isValid(self, s: str) -> bool:
-        brack_dict = {"(":1, ")":1, "{":2, "}":2, "[":3, "]":3}
-        bracks_list = []
+        bracks = {')':'(', ']':'[', '}': '{'}
+        brack_list = []
         for brack in s:
-            if brack == "(" or brack == "{" or brack == "[":
-                bracks_list.insert(0,brack)
-            else:
-                if len(bracks_list) > 0:
-                    if brack_dict[brack] == brack_dict[bracks_list[0]]:
-                        bracks_list.remove(bracks_list[0])
-                    else:
-                        return False
+            if brack in bracks and brack_list:
+                if bracks[brack] == brack_list[-1]:
+                    brack_list.pop()
                 else:
                     return False
-        if not bracks_list:
-            return True
-        else:
-            return False
+            else:
+                brack_list.append(brack)
+        return True if len(brack_list) == 0 else False
+
+
+
+
+
+
+
+
+
+
 
         # bracks_list = []
         # bracks_dict = {')':'(', ']':'[', '}':'{'}
