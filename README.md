@@ -19,6 +19,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0003-longest-substring-without-repeating-characters](https://github.com/richyy1-code/Leet/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0013-roman-to-integer](https://github.com/richyy1-code/Leet/tree/main/0013-roman-to-integer/) | Easy |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/richyy1-code/Leet/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
+| [0242-valid-anagram](https://github.com/richyy1-code/Leet/tree/main/0242-valid-anagram/) | Easy |
 | [3941-password-strength](https://github.com/richyy1-code/Leet/tree/main/3941-password-strength/) | Medium |
 ## Math
 | Problem Name | Difficulty |
@@ -38,6 +39,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0017-letter-combinations-of-a-phone-number](https://github.com/richyy1-code/Leet/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
 | [0020-valid-parentheses](https://github.com/richyy1-code/Leet/tree/main/0020-valid-parentheses/) | Easy |
 | [0125-valid-palindrome](https://github.com/richyy1-code/Leet/tree/main/0125-valid-palindrome/) | Easy |
+| [0242-valid-anagram](https://github.com/richyy1-code/Leet/tree/main/0242-valid-anagram/) | Easy |
 | [3941-password-strength](https://github.com/richyy1-code/Leet/tree/main/3941-password-strength/) | Medium |
 ## Trie
 | Problem Name | Difficulty |
@@ -93,4 +95,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/richyy1-code/Leet/tree/main/0005-longest-palindromic-substring/) | Medium |
+## Sorting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0242-valid-anagram](https://github.com/richyy1-code/Leet/tree/main/0242-valid-anagram/) | Easy |
 <!---LeetCode Topics End-->
