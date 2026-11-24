@@ -12,6 +12,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0026-remove-duplicates-from-sorted-array](https://github.com/richyy1-code/Leet/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0118-pascals-triangle](https://github.com/richyy1-code/Leet/tree/main/0118-pascals-triangle/) | Easy |
 | [0119-pascals-triangle-ii](https://github.com/richyy1-code/Leet/tree/main/0119-pascals-triangle-ii/) | Easy |
+| [0128-longest-consecutive-sequence](https://github.com/richyy1-code/Leet/tree/main/0128-longest-consecutive-sequence/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -19,6 +20,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0003-longest-substring-without-repeating-characters](https://github.com/richyy1-code/Leet/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0013-roman-to-integer](https://github.com/richyy1-code/Leet/tree/main/0013-roman-to-integer/) | Easy |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/richyy1-code/Leet/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
+| [0128-longest-consecutive-sequence](https://github.com/richyy1-code/Leet/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0242-valid-anagram](https://github.com/richyy1-code/Leet/tree/main/0242-valid-anagram/) | Easy |
 | [3941-password-strength](https://github.com/richyy1-code/Leet/tree/main/3941-password-strength/) | Medium |
 ## Math
@@ -99,4 +101,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0242-valid-anagram](https://github.com/richyy1-code/Leet/tree/main/0242-valid-anagram/) | Easy |
+## Union-Find
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/richyy1-code/Leet/tree/main/0128-longest-consecutive-sequence/) | Medium |
 <!---LeetCode Topics End-->
