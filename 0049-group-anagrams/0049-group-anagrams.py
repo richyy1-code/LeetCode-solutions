@@ -3,13 +3,11 @@ class Solution:
         seen = {}
 
         for word in strs:
-            freq = [0] * 26
-            for char in word:
-                freq[ord(char)-97] += 1
-            str_key = tuple(freq)
+            str_key = tuple(sorted(word))
             if str_key in seen:
                 seen[str_key].append(word)
                 continue
             seen[str_key] = [word]
         return list(seen.values())
+
         
