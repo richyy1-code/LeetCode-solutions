@@ -3,7 +3,10 @@ class Solution:
         seen = {}
 
         for word in strs:
-            str_key = tuple(sorted(word))
+            freq = [0] * 26
+            for char in word:
+                freq[ord(char)-97] += 1
+            str_key = tuple(freq)
             if str_key in seen:
                 seen[str_key].append(word)
                 continue
