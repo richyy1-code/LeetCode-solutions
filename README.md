@@ -13,6 +13,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0049-group-anagrams](https://github.com/richyy1-code/Leet/tree/main/0049-group-anagrams/) | Medium |
 | [0118-pascals-triangle](https://github.com/richyy1-code/Leet/tree/main/0118-pascals-triangle/) | Easy |
 | [0119-pascals-triangle-ii](https://github.com/richyy1-code/Leet/tree/main/0119-pascals-triangle-ii/) | Easy |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/richyy1-code/Leet/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0128-longest-consecutive-sequence](https://github.com/richyy1-code/Leet/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0238-product-of-array-except-self](https://github.com/richyy1-code/Leet/tree/main/0238-product-of-array-except-self/) | Medium |
 ## Hash Table
@@ -88,6 +89,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0005-longest-palindromic-substring](https://github.com/richyy1-code/Leet/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0118-pascals-triangle](https://github.com/richyy1-code/Leet/tree/main/0118-pascals-triangle/) | Easy |
 | [0119-pascals-triangle-ii](https://github.com/richyy1-code/Leet/tree/main/0119-pascals-triangle-ii/) | Easy |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/richyy1-code/Leet/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [1884-egg-drop-with-2-eggs-and-n-floors](https://github.com/richyy1-code/Leet/tree/main/1884-egg-drop-with-2-eggs-and-n-floors/) | Medium |
 ## Simulation
 | Problem Name | Difficulty |
