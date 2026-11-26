@@ -1,13 +1,22 @@
 class Solution:
     def removeDuplicates(self, nums: list[int]) -> int:
-        e_list = []
-        pos = 0
-        k = 0
-        for i in range(len(nums)):
-            if nums[i] not in e_list:
-                nums[pos] = nums[i]
-                e_list.append(nums[i])
-                pos+=1
-        return pos
+        left = 0
+        right = 0
+        k = 1
+
+        while right < len(nums):
+            if nums[right] != nums[left]:
+                left += 1
+                nums[left], nums[right] = nums[right], nums[left]
+                right += 1
+                k += 1
+
+            else:
+                right += 1
+
+        return k
+
+
+
         
 
