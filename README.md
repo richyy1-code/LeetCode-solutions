@@ -10,6 +10,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0004-median-of-two-sorted-arrays](https://github.com/richyy1-code/Leet/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [0014-longest-common-prefix](https://github.com/richyy1-code/Leet/tree/main/0014-longest-common-prefix/) | Easy |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/richyy1-code/Leet/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
+| [0027-remove-element](https://github.com/richyy1-code/Leet/tree/main/0027-remove-element/) | Easy |
 | [0049-group-anagrams](https://github.com/richyy1-code/Leet/tree/main/0049-group-anagrams/) | Medium |
 | [0118-pascals-triangle](https://github.com/richyy1-code/Leet/tree/main/0118-pascals-triangle/) | Easy |
 | [0119-pascals-triangle-ii](https://github.com/richyy1-code/Leet/tree/main/0119-pascals-triangle-ii/) | Easy |
@@ -67,6 +68,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/richyy1-code/Leet/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/richyy1-code/Leet/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
+| [0027-remove-element](https://github.com/richyy1-code/Leet/tree/main/0027-remove-element/) | Easy |
 | [0125-valid-palindrome](https://github.com/richyy1-code/Leet/tree/main/0125-valid-palindrome/) | Easy |
 | [0283-move-zeroes](https://github.com/richyy1-code/Leet/tree/main/0283-move-zeroes/) | Easy |
 ## Binary Search
